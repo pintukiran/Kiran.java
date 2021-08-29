@@ -1,0 +1,6 @@
+//wite a java program to check if a number is divisible by 7 or not?
+
+
+class one{
+public static void main(String []H){
+	
